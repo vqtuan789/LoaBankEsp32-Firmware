@@ -1,0 +1,41 @@
+LoaBankEsp32 PRIVATE
+        ↓
+Source / sửa lỗi / test
+        ↓
+Verify + runtime PASS
+        ↓
+Export .bin
+        ↓
+SHA256 + Size
+        ↓
+LoaBankEsp32-Firmware PUBLIC
+        ↓
+Tạo Release vX.Y.Z (Release title: LoaBank2026 V2.1.9)
+        ↓
+Upload LoaBank2026-esp32.bin
+        ↓
+Cuối cùng cập nhật manifest.json (Sửa 4 chỗ)
+        ↓
+ESP32 Web báo có version mới
+
+PS C:\GithubPrivate\LoaBankEsp32\LoaBank2026\build\esp32.esp32.esp32> (Get-Item .\LoaBank2026-esp32.bin).Length
+1731008
+PS C:\GithubPrivate\LoaBankEsp32\LoaBank2026\build\esp32.esp32.esp32> (Get-FileHash .\LoaBank2026-esp32.bin -Algorithm SHA256).Hash.ToLower()
+ab5d4776ef0b8603beb487ae28e6a535daa10fa1a6d96fec251a7c5504565313
+
+Link GitHub OTA:
+https://raw.githubusercontent.com/vqtuan789/LoaBankEsp32-Firmware/main/manifest.json
+
+Người dùng mở WebServer
+        ↓
+Xác thực thành công
+        ↓
+ESP32 tự kiểm tra OTA 1 LẦN
+        ↓
+Có version mới?
+   ↙             ↘
+ không            có
+  ↓                ↓
+FW mới nhất     hiện cảnh báo
+                 ↓
+         người dùng bấm Update

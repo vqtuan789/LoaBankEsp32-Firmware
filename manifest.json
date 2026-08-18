@@ -1,9 +1,9 @@
 {
-  "version": "2.1.17",
+  "version": "2.1.18",
   "esp32": {
-    "url": "https://github.com/vqtuan789/LoaBankEsp32-Firmware/releases/download/v2.1.17/LoaBank2026-esp32.bin",
-    "size": 1794224,
-    "sha256": "9761e5378121ac990a87e68a4366a374e35d90221e331efc3620b2301e140332"
+    "url": "https://github.com/vqtuan789/LoaBankEsp32-Firmware/releases/download/v2.1.18/LoaBank2026-esp32.bin",
+    "size": 1497072,
+    "sha256": "736397922da76138dd6f72bf95a5859bafbcc99bfa472b4e596e129d05abd4d8"
   },
   "esp32s3": {
     "url": "",

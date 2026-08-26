@@ -2,12 +2,12 @@
     "schema":  1,
     "product":  "LoaBank2026",
     "target":  "esp32",
-    "version":  "2.4.2",
+    "version":  "2.4.3",
     "esp32":  {
-                  "url":  "https://github.com/vqtuan789/LoaBankEsp32-Firmware/releases/download/v2.4.2/LoaBank2026.ino.bin",
-                  "size":  1706816,
-                  "sha256":  "43320e06538b0485f89e835178f441e7f9d0b7001e7d15645e8aea43c2094d27"
+                  "url":  "https://github.com/vqtuan789/LoaBankEsp32-Firmware/releases/download/v2.4.3/LoaBank2026.ino.bin",
+                  "size":  1707344,
+                  "sha256":  "84a44e53ac0d90746e5fd3245c9593cae953d4b1c1b6f2a3a57b6a0a1d5e9f79"
               },
     "keyId":  "LB-R1-2026",
-    "signature":  "nmJXxUKjpETfGrzWPMQceaVFxuO/Dm2uPyKa9NPsHGkB6lDT8MEJkPLWrGeK8Sz5RlnRXoM1jBHixF4p6yxGHeOdO0/uIzcLVNA9ugXPsEqz4UHYK8p9Fh9oD0cIVLefqVTcsHNAQMIKKbcjfgzShfsWJrbUkPNf3n2LMIg+oQQiY0yLgCFmB46vzxwI86XDsgIeqhNmV9fZaGleoOjEHf7lGXVjYYqrPfmFXBlExptMplKPM5N1vy3ED/Z/gbDCga3ZnwkAUBZxwbwTgHkPO/wunoTlWMfXvVXdhfyN+ctljqaMaNy0uuzh4JNaVFXMjUA8mgs+b2Px0yG6S0I+uQ=="
+    "signature":  "Sk4CB/BVwP5dIZHYPpfIeKZAQi6MKuCBtSdovJTlikcr5pa56Rm7ANkKlMa3A/fwrDpGYcg1faXAAH9tUDkCZQFYVR5gIOAEZtNDxr0bgu1V4eMdng261ymsgyKRwkN92o3sWWgsbtIKUOcDxHSFvheNY9HfxM+vuKRiGR0hW1tpM2yb3symvYgrcjQY+dW4UE09CDySdtYr7SYvUiGNLJyJyuaEIGG7OtCIaJyZsAPUrE1lhOWOXh96e0QNJuSEigXZnUb8SYfH2PwCFnQqE8haHP7n0eeAI5zMRRiaaoy8Os3nMqiyZFLxrC0a6juuV9fAiosoKqMGXJIcOYBk+Q=="
 }

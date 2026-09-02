@@ -1,0 +1,9 @@
+LoaBank OTA validation v2.6.10
+stable_before=0.0.0
+target=esp32s3
+profile=esp32s3_n16r8
+firmware=LoaBank2026V2.6.10_esp32s3_n16r8.bin
+size=1733216
+sha256=02663856008784368a6f676c0d512eac85025db59209614c1ceedf98d3582571
+manifest=manifest-esp32s3-n16r8-validation.json
+generated=2026-09-02T23:56:39

@@ -6,20 +6,29 @@
                       {
                           "target":  "esp32",
                           "profile":  "esp32_classic",
-                          "version":  "2.8.1",
-                          "url":  "https://github.com/vqtuan789/LoaBankEsp32-Firmware/releases/download/v2.8.1/LoaBank2026-esp32_classic.bin",
-                          "size":  1765968,
-                          "sha256":  "dc593b9072d0143024694f8534c8b05d69802d0d53f37e551b06b35e3ce91691",
-                          "signature":  "sO/uUBLHfLZ4NBBLrr5SyY2x7fYJfAtXm9+0Agpd/ppriMGNl5WmYdstVC6k0hZXceM17XDv3lBXgQbo00b++oijAH0FUgJQpVhOWQWVlJcYGgaG4xEr8+XoGnqFvILTvDBrF6LrZKesxTY/poEhhCYGx5wk5Q6xQ0qztDcWeLczoOajE1G1sKniDILBe2dc/Ln03L40iZBfpiINzMnyxdqpVEN5ihX6/O5yYWUt5uDa9FWjZSFTiDBv+XxfaIJNjEZKS2ghlMKCv/IYuFnfeDZ8bxGPn0XafKHWUMbR65n4IBnzca7O9af1ko8irrTZuZvN+zBbuvXv9x8x7SBcZA=="
+                          "version":  "2.8.4",
+                          "url":  "https://github.com/vqtuan789/LoaBankEsp32-Firmware/releases/download/v2.8.4/LoaBank2026-esp32_classic.bin",
+                          "size":  1766672,
+                          "sha256":  "e1ac00b63bbf8cfec3bd677970969ae8f2a05b35e02ba465a5550dd18f323230",
+                          "signature":  "dqWlKzwipsOcp6n0FqI829ssPtFHkL0K89rYM8YZZIWhhHErcTzeSfsFjwwHxzQjkA+WfnhQ9bh/KWBXFtLR3iw5+LZgulAh6iWnmcdO3KTOmbPyO3abUqSxt4ytDSumVMFCUR1qhj8wQj/0ZAiBjOb7xSgpuyQvUSoxRYB8knCmyinPXEm59EnKgIWB7k9FA8Ej/E1pHFsCCfAxQXhYBhzju6w1Z6uWQAEsXglNdqzrsbLcHoQVdgBwWCuJX89tLMo86suttwu8iFd1CXpiCNWAk06cqMqMYPAHXUZ8rB3E0dAwDY2GvbxwcLV0JXjnIsDf2YBC+LA1P3b4zvAlTw=="
                       },
                       {
                           "target":  "esp32s3",
                           "profile":  "esp32s3_n16r8",
-                          "version":  "2.8.1",
-                          "url":  "https://github.com/vqtuan789/LoaBankEsp32-Firmware/releases/download/v2.8.1/LoaBank2026-esp32s3_n16r8.bin",
-                          "size":  1747120,
-                          "sha256":  "a03a32d8016846df8bba70c4470814b27eeaa46aa9500c06d5f2e7d2a53dd490",
-                          "signature":  "QNs5nJA4O/gecso9VfSZjFy6+irPqAHx8bgpfd9IrsUvQkGhWceJqVnI5tp2z+Ie6ubUR7kuT7zTsKCwMn3R7pr2qP9rkx3wXAZOK28rQ87XkMbHNR8cKuaYdMHEJJ6PKLhQbrb4Sdc3QuBkG+dIkO8XYUjAmkSvt0E1wXNMBCaGOdSXdR2B5jD+IlXfSOy3fnFd1Uki40Agl82jutNdGN5le1uRfE/7i3abRGfam/WHS6Nkqh/PQHMJ0Fc3twZ24YvPg07V8amVGti3NXNZjsOBon6wlASSRMiV00Cxw0GloOt6VP+cDbo3GcfC0zWuFdes3BQjDjcx4V3Ve7zXOA=="
+                          "version":  "2.8.4",
+                          "url":  "https://github.com/vqtuan789/LoaBankEsp32-Firmware/releases/download/v2.8.4/LoaBank2026-esp32s3_n16r8.bin",
+                          "size":  1747328,
+                          "sha256":  "dd07db5d3ad6c35768a480cd75a05df80316aa8c88505399f505888e2056b86e",
+                          "signature":  "FqKYF9H9e6q1Sx5QbkswB+01bsb9V6zsqIib0+7iN5todRUYd3ETBebydU+EeJmKJMad/0Wg2DIrDUbY2JuRU19DzBzX7zcHnJi+7lbuHjNa4FCMJVN0VjyNk4YsudsB5e9fAT2NR9noOUl8qcjATlZpJcBNVuRmu0wl0K9sCC88Lkl2YMeq0uRzudN2tFsj7XNTqth6Oe/GcA1Njn4PxOTD0rwk5dzQ0rYLfPf0jmeDmiDR93BiGL7/9HOUd4HrnKxkYA0t0W7MjJAmlL9ew+cGSQ1obK7ua2L787/UxgB5uHl92M4MdzbM73NXlcWa/J86sBxG/nMuKd4chwoi+g=="
+                      },
+                      {
+                          "target":  "esp32c3",
+                          "profile":  "esp32c3_super_mini",
+                          "version":  "2.8.4",
+                          "url":  "https://github.com/vqtuan789/LoaBankEsp32-Firmware/releases/download/v2.8.4/LoaBank2026-esp32c3_super_mini.bin",
+                          "size":  1866464,
+                          "sha256":  "d363d9bb885f3e21ae9f52bec6d5daad43543cba09a43378745a95313c1f7086",
+                          "signature":  "P+ptC622WhDA1mpFS52/0HymXs+FNLSpBDTzaGCYtadP7fvrRtkbAtcPghVgmJ5nWfQbbub8b38/zwhNMiMW3+8KA7ihwGPemfe2oT6/mmQ4zpsACF6D9yt+Rw3t+uRccOHA/m1NCYEOkJzcjyQlnE0Fm8TXdTU8svOzDxbeBR9yuMXyrvMi7gTa3qSwvBZtR4jpk5xKfgJgsOcHk3H8h6haSh3y2+702kq8LY2NHohoRynxSdkl7nNOOZvBxH7Q/6ndnGCgyJzXjK+vtIZCrdpU+6fdwm0NAQ1Rc/Wd8K+OrcwvDhgkZ2QttVAmidGbZhNeFnnKlHcEaYFcHfwZbg=="
                       }
                   ]
 }

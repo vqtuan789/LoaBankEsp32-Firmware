@@ -24,11 +24,11 @@
                       {
                           "target":  "esp32c3",
                           "profile":  "esp32c3_super_mini",
-                          "version":  "2.8.6",
-                          "url":  "https://github.com/vqtuan789/LoaBankEsp32-Firmware/releases/download/v2.8.6/LoaBank2026-esp32c3_super_mini.bin",
-                          "size":  1869328,
-                          "sha256":  "3a755dea3491127a8a79afb6886d7c42260822b065c7ff7c2e4d46bab0de15e9",
-                          "signature":  "oyck9980nXPRQBoyqRlMT/siuAPeOnVUrON/7kVRQw5mRf9M+r0khYmE466nqXI+VIZoA/w4QW+IxwP62bTAkrASPCiDJ05LYXe8QkVPAAGR81Al/pVqwsvlvl0+hQz8TEhNlwDC+Cpp4zsedWKf5IBZzvuRz1yMaVaezv+D5M1EW52O8+ThoIgk7gqMhSy5JVljsa8TriZA4cljXd5rKQZ+qDShOLW91Eg9PkC7XinnY1fYW2CdqnWYMX67aTPoimVL2TmsSIWe6bw33bGd4y65ZN0PIjfY/QU5u33s5NmDUzbhtM8mqRhddxL1VFgIMQduC7X9qypbNtwyMMD7Xw=="
+                          "version":  "2.8.8",
+                          "url":  "https://github.com/vqtuan789/LoaBankEsp32-Firmware/releases/download/v2.8.8/LoaBank2026-esp32c3_super_mini.bin",
+                          "size":  1843776,
+                          "sha256":  "663ab4cfb6e94641068c3e29760f5481330067a2b497be868076d332c5a65ddf",
+                          "signature":  "RDcwyi0mD+YzyV1C2nhIm1XM1jFaMQlnmVAmfmIriFkfrwa8gLbkmYYa8Fm2RTGgdMfmhQ2zrWajK0LueJlt0fJwbC7MlwUok+g696ZI8ie0rnykDfKbiMSsSIRCyy5OeRXOZXjymz4o0lAg8K+RcZ1kz4/G7LDxBiqK6nGpZNTWjI8k9sdYRZUOD21btOlSAA40oLdCXWr5TODV3XEYbj1UGgVNRE5LtZhwV2Rs7UHR3xIPhmlIYe3SiOdhRIhBkXQex3DvO+niG9BI0zAsfCDy2pXAgQ/15lqfE6IdLUdPF1j3ZOHBCG2tfx9MsCNbVrQthey6R1sLwN8ofl1Cww=="
                       }
                   ]
 }
